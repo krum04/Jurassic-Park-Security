@@ -3,6 +3,7 @@
 
 ## Description
 Channel your inner Ray Arnold (Sammual L. Jackson) with this "Authentic" Jurassic Park security interface, complete with a graphical window displaying an animated GIF and audio playback.
+![Demo Image](demo.png)
 
 ## Features
 - Terminal-based interface simulation.
