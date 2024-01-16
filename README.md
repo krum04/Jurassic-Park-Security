@@ -22,8 +22,8 @@ pip install -r requirements.txt
 To start the simulation, execute the Python script:
 
 ```bash
-python jpark.py
-```
+python whte_rbt.py
+``` 
 
 ## Note
 - Ensure you have the `magicword.mp3` and `nedry.gif` files in the same directory as the script.
